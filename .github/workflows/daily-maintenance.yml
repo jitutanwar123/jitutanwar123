@@ -1,0 +1,62 @@
+name: Daily repository maintenance
+
+on:
+  schedule:
+    - cron: "43 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-maintenance
+  cancel-in-progress: false
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+
+      - name: Check public repositories
+        env:
+          GH_TOKEN: ${{ github.token }}
+          OWNER: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+
+          mkdir -p automation
+          DATE="$(date -u +%Y-%m-%d)"
+          REPORT="automation/daily-maintenance.md"
+
+          echo "# Daily repository maintenance" > "$REPORT"
+          echo "" >> "$REPORT"
+          echo "Generated: $DATE (UTC)" >> "$REPORT"
+          echo "" >> "$REPORT"
+          echo "This report is generated automatically by GitHub Actions." >> "$REPORT"
+          echo "" >> "$REPORT"
+          echo "| Repository | Default branch | Open issues | Status |" >> "$REPORT"
+          echo "|---|---|---:|---|" >> "$REPORT"
+
+          gh repo list "$OWNER" --visibility public --limit 100 --json nameWithOwner,defaultBranchRef,issues --jq '.[] | [.nameWithOwner, (.defaultBranchRef.name // "unknown"), (.issues.totalCount // 0)] | @tsv' |
+          while IFS=$'\t' read -r repo branch issues; do
+            if [ -n "$repo" ]; then
+              echo "| \`$repo\` | \`$branch\` | $issues | Checked |" >> "$REPORT"
+            fi
+          done
+
+      - name: Commit maintenance report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add automation/daily-maintenance.md
+
+          if git diff --cached --quiet; then
+            echo "No maintenance changes."
+            exit 0
+          fi
+
+          git commit -m "chore: daily repository maintenance"
+          git push
