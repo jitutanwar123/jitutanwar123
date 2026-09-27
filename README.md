@@ -119,13 +119,13 @@ Lightweight browser stopwatch using vanilla web technologies.
 <tr>
 <td width="50%">
 
-### 📱 Responsive Landing Page
+### 🏛️ Civic Sense
 
-Responsive frontend project focused on clean layouts across different screen sizes.
+A project focused on building a practical civic-oriented web experience.
 
-**Focus:** HTML · CSS · Responsive Design
+**Focus:** Web Development · Problem Solving · User Experience
 
-<a href="https://github.com/jitutanwar123/ResponsiveLandingPage">View repository →</a>
+<a href="https://github.com/jitutanwar123/Civic-Sense">View repository →</a>
 
 </td>
 <td width="50%">
