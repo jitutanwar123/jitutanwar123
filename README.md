@@ -15,6 +15,8 @@
 <a href="https://github.com/jitutanwar123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/jitutanwar123?tab=stars"><img src="https://img.shields.io/badge/Starred-Explore-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/jitutanwar123"><img src="https://img.shields.io/badge/Follow-GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jatin-tanwar-a6393132a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jatinsinghtanwar783@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -285,10 +287,16 @@ Production-Ready Projects
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
+<a href="https://www.linkedin.com/in/jatin-tanwar-a6393132a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jatinsinghtanwar783@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://github.com/jitutanwar123">
   <img src="https://img.shields.io/badge/GitHub-@jitutanwar123-181717?style=for-the-badge&logo=github" />
 </a>
@@ -299,7 +307,5 @@ Production-Ready Projects
 <br /><br />
 
 ### Code → Learn → Build → Improve
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:172554,100:0f172a&height=110&section=footer" width="100%" />
 
 </div>
