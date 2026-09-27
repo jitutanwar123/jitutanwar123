@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:2563eb&height=220&section=header&text=JITU%20TANWAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:2563eb&height=220&section=header&text=JATIN%20TANWAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/jitutanwar123">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+web+applications;Learning+JavaScript+%7C+React+%7C+Node.js;Exploring+MERN+%7C+SQL+%7C+DSA;Turning+ideas+into+working+software" alt="Typing animation" />
