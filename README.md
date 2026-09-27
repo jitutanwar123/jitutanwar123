@@ -1,73 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:2563eb&height=220&section=header&text=JATIN%20TANWAR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:172554,100:2563eb&height=230&section=header&text=JATIN%20TANWAR&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Information%20Technology%20%7C%20Full-Stack%20Developer&descAlignY=59&descSize=18&animation=fadeIn" width="100%" />
 
 <a href="https://github.com/jitutanwar123">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+web+applications;Learning+JavaScript+%7C+React+%7C+Node.js;Exploring+MERN+%7C+SQL+%7C+DSA;Turning+ideas+into+working+software" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+real-world+web+applications;Learning+JavaScript+%7C+React+%7C+Node.js;Exploring+MERN+%7C+SQL+%7C+DSA;Turning+ideas+into+working+software" alt="Typing animation" />
 </a>
 
-<br/>
+<br />
 
 <img src="https://komarev.com/ghpvc/?username=jitutanwar123&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" />
 
-<br/><br/>
+<br /><br />
 
-<a href="https://github.com/jitutanwar123?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/jitutanwar123?tab=stars">
-<img src="https://img.shields.io/badge/Stars-Explore%20my%20favorites-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://github.com/jitutanwar123?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jitutanwar123?tab=stars"><img src="https://img.shields.io/badge/Starred-Explore-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/jitutanwar123"><img src="https://img.shields.io/badge/Follow-GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
 I'm a **B.E. Information Technology student** focused on becoming a strong full-stack developer.
 
-I enjoy building applications from the ground up — from responsive interfaces and JavaScript logic to APIs, databases, and complete web applications.
+I like building things end-to-end — from clean interfaces and JavaScript logic to APIs, databases, authentication, and complete web applications.
 
 <pre>
-CURRENT DIRECTION
-
-Frontend        →  HTML · CSS · JavaScript · React
-Backend         →  Node.js · Express
-Databases       →  SQL · MySQL · MongoDB
-Engineering     →  Git · GitHub · REST APIs
-Problem Solving →  DSA · Interview Preparation
+Currently learning
+────────────────────────────────────────
+Frontend       HTML · CSS · JavaScript · React
+Backend        Node.js · Express
+Databases      SQL · MySQL · MongoDB
+Engineering    Git · GitHub · REST APIs
+Problem Solving
+               DSA · Interview Preparation
 </pre>
 
-> **Goal:** Build real-world software, understand the systems behind it, and continuously raise the quality of what I ship.
+> **My approach:** Learn → Build → Break → Debug → Understand → Improve.
 
 ---
 
-## ⚡ Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp" />
 
 ### Frontend
-
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 
 ### Backend & Databases
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 
-### Tools & Workflow
-
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 
 </div>
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -75,22 +69,22 @@ Problem Solving →  DSA · Interview Preparation
 
 ### 🐛 IssueTrack
 
-Issue tracking application focused on managing and organizing development issues.
+A full-stack issue tracking application for organizing and managing development issues.
 
-**Focus:** Full-stack development · CRUD · Application workflow
+**Focus:** CRUD · APIs · Application workflow
 
-<a href="https://github.com/jitutanwar123/IssueTrack">View Repository →</a>
+<a href="https://github.com/jitutanwar123/IssueTrack">View repository →</a>
 
 </td>
 <td width="50%">
 
 ### 🌐 Personal Portfolio
 
-Developer portfolio designed to present projects, skills and work.
+A developer portfolio focused on presenting projects, skills, and work in a clean responsive interface.
 
-**Focus:** Frontend · Responsive UI · User experience
+**Focus:** Frontend · Responsive UI · UX
 
-<a href="https://github.com/jitutanwar123/portfolio">View Repository →</a>
+<a href="https://github.com/jitutanwar123/portfolio">View repository →</a>
 
 </td>
 </tr>
@@ -100,22 +94,22 @@ Developer portfolio designed to present projects, skills and work.
 
 ### 🎮 Tic Tac Toe
 
-Interactive browser game built while strengthening JavaScript fundamentals.
+Interactive browser game built to strengthen JavaScript, DOM manipulation, and game logic.
 
-**Focus:** JavaScript · DOM · Game logic
+**Focus:** JavaScript · DOM · Logic
 
-<a href="https://github.com/jitutanwar123/tic-tac-toe">View Repository →</a>
+<a href="https://github.com/jitutanwar123/tic-tac-toe">View repository →</a>
 
 </td>
 <td width="50%">
 
 ### ⏱️ Stopwatch
 
-Lightweight browser stopwatch built with vanilla web technologies.
+Lightweight browser stopwatch using vanilla web technologies.
 
-**Focus:** JavaScript · Events · DOM manipulation
+**Focus:** JavaScript · Events · DOM
 
-<a href="https://github.com/jitutanwar123/Stopwatch-web-app">View Repository →</a>
+<a href="https://github.com/jitutanwar123/Stopwatch-web-app">View repository →</a>
 
 </td>
 </tr>
@@ -125,22 +119,22 @@ Lightweight browser stopwatch built with vanilla web technologies.
 
 ### 📱 Responsive Landing Page
 
-Responsive frontend project focused on layouts that work across screen sizes.
+Responsive frontend project focused on clean layouts across different screen sizes.
 
-**Focus:** HTML · CSS · Responsive design
+**Focus:** HTML · CSS · Responsive Design
 
-<a href="https://github.com/jitutanwar123/ResponsiveLandingPage">View Repository →</a>
+<a href="https://github.com/jitutanwar123/ResponsiveLandingPage">View repository →</a>
 
 </td>
 <td width="50%">
 
 ### 🏪 Stationary
 
-Frontend project exploring practical web interfaces and development fundamentals.
+Frontend project exploring practical interfaces and core web-development fundamentals.
 
-**Focus:** Web development · UI
+**Focus:** UI · Web Development
 
-<a href="https://github.com/jitutanwar123/Stationary">View Repository →</a>
+<a href="https://github.com/jitutanwar123/Stationary">View repository →</a>
 
 </td>
 </tr>
@@ -148,7 +142,7 @@ Frontend project exploring practical web interfaces and development fundamentals
 
 ---
 
-## 🧭 Current Roadmap
+## 🧭 Learning Roadmap
 
 <div align="center">
 
@@ -162,7 +156,7 @@ Frontend project exploring practical web interfaces and development fundamentals
 →
 <img src="https://img.shields.io/badge/05-SQL-2563eb?style=for-the-badge" />
 
-<br/><br/>
+<br /><br />
 
 <img src="https://img.shields.io/badge/06-MERN-111827?style=for-the-badge" />
 →
@@ -172,60 +166,43 @@ Frontend project exploring practical web interfaces and development fundamentals
 
 </div>
 
-### Current priorities
+### Current focus
 
-- 🟢 HTML & CSS fundamentals
-- 🟡 JavaScript depth
-- ⚪ React development
+- 🟢 JavaScript depth
+- 🟡 React development
 - ⚪ Node.js + Express
 - ⚪ SQL & database design
-- ⚪ Complete MERN applications
+- ⚪ Full MERN applications
 - ⚪ DSA & interview preparation
 - ⚪ Production-style projects
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/jitutanwar123?label=Followers&style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/repos/jitutanwar123?label=Public%20Repositories&style=for-the-badge&logo=github" />
+</p>
 
-<a href="https://github.com/jitutanwar123">
-<img src="https://img.shields.io/github/followers/jitutanwar123?label=Followers&style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+  <b>Self-hosted GitHub activity card</b><br />
+  Generated automatically with GitHub Actions and stored in this repository.
+</p>
 
-<a href="https://github.com/jitutanwar123?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile/signal-field-wide-light.svg">
+  <img alt="GitHub activity and contribution summary" src="./profile/signal-field-wide-light.svg" width="100%">
+</picture>
 
-<a href="https://github.com/jitutanwar123?tab=stars">
-<img src="https://img.shields.io/badge/Starred%20Projects-Explore-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
-> GitHub's own profile page contains my live contribution graph, repositories, activity, followers, and other account statistics.
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/jitutanwar123">
-<img src="https://img.shields.io/badge/View%20Live%20Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/jitutanwar123?tab=overview">
-<img src="https://img.shields.io/badge/View%20Profile%20Activity-Open%20GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/jitutanwar123">Open my live GitHub contribution graph →</a>
+</p>
 
 ---
 
-## 🧠 My Development Loop
+## 🧠 Development Loop
 
 <div align="center">
 
@@ -243,21 +220,21 @@ Frontend project exploring practical web interfaces and development fundamentals
 
 </div>
 
-<br/>
+<br />
 
-I prefer learning through implementation. Building something, breaking it, debugging it, and understanding **why** it works teaches me more than simply collecting tutorials.
+I learn best by implementation. Build something, break it, debug it, understand why it works, and then improve it.
 
 ---
 
 ## 🏗️ Engineering Principles
 
 | Principle | What it means |
-|---|---|
+| --- | --- |
 | **Understand first** | Learn the reasoning behind the technology |
 | **Build continuously** | Turn concepts into working software |
 | **Debug deeply** | Treat errors as part of the learning process |
-| **Keep improving** | Refactor and improve instead of stopping at "it works" |
-| **Build with purpose** | Prefer projects that solve a real problem |
+| **Keep improving** | Refactor instead of stopping at “it works” |
+| **Build with purpose** | Prefer projects that solve useful problems |
 
 ---
 
@@ -267,13 +244,13 @@ I prefer learning through implementation. Building something, breaking it, debug
 B.E. Information Technology
           │
           ▼
-   Strong JavaScript
+    JavaScript Depth
           │
           ▼
-    Full-Stack MERN
+     Full-Stack MERN
           │
           ▼
-  Databases + APIs
+   APIs + Databases
           │
           ▼
       DSA + CS
@@ -287,26 +264,21 @@ Production-Ready Projects
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
 
 <a href="https://github.com/jitutanwar123">
-<img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-@jitutanwar123-181717?style=for-the-badge&logo=github" />
 </a>
-
 <a href="https://github.com/jitutanwar123?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore%20Repositories-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-Explore-2563eb?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br /><br />
 
 ### Code → Learn → Build → Improve
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:111827,100:0f172a&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,55:172554,100:0f172a&height=110&section=footer" width="100%" />
 
 </div>
