@@ -59,6 +59,29 @@ I enjoy building things end-to-end — from clean interfaces and JavaScript logi
 
 ---
 
+## ⚔️ Tech Arsenal
+
+<div align="center">
+
+| Category | Technologies |
+| :--- | :--- |
+| **💻 Languages** | HTML · CSS · JavaScript · Java · C++ |
+| **🎨 Frontend** | React · Tailwind CSS |
+| **⚙️ Backend** | Node.js · Express |
+| **🗄️ Databases** | MySQL · MongoDB · SQL |
+| **🔧 Tools** | Git · GitHub · VS Code · Postman · npm |
+| **🌐 Core Concepts** | REST APIs · DOM · Responsive Design · CRUD |
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,mongodb,git,github,vscode,postman,npm" />
+
+</div>
+
+> 📌 **Currently deepening:** JavaScript → React → Node.js → SQL → MERN → DSA
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
