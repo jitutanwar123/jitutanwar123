@@ -189,15 +189,21 @@ Frontend project exploring practical web interfaces and development fundamentals
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jitutanwar123&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" />
+<a href="https://github.com/jitutanwar123">
+<img src="https://img.shields.io/github/followers/jitutanwar123?label=Followers&style=for-the-badge&logo=github" />
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitutanwar123&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+<a href="https://github.com/jitutanwar123?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github" />
+</a>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=jitutanwar123&hide_border=true&theme=transparent" />
+<a href="https://github.com/jitutanwar123?tab=stars">
+<img src="https://img.shields.io/badge/Starred%20Projects-Explore-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
+
+> GitHub's own profile page contains my live contribution graph, repositories, activity, followers, and other account statistics.
 
 ---
 
@@ -205,7 +211,15 @@ Frontend project exploring practical web interfaces and development fundamentals
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jitutanwar123&theme=github-compact&hide_border=true&area=true&custom_title=Jitu's%20Contribution%20Activity" width="95%" />
+<a href="https://github.com/jitutanwar123">
+<img src="https://img.shields.io/badge/View%20Live%20Contribution%20Graph-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/jitutanwar123?tab=overview">
+<img src="https://img.shields.io/badge/View%20Profile%20Activity-Open%20GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
