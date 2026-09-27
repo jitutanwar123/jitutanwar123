@@ -24,22 +24,20 @@
 
 I'm a **B.E. Information Technology student** focused on becoming a strong full-stack developer.
 
-I like building things end-to-end — from clean interfaces and JavaScript logic to APIs, databases, authentication, and complete web applications.
+I enjoy building things end-to-end — from clean interfaces and JavaScript logic to APIs, databases, and complete web applications.
 
-<pre>
-Currently learning
-────────────────────────────────────────
-Frontend       HTML · CSS · JavaScript · React
-Backend        Node.js · Express
-Databases      SQL · MySQL · MongoDB
-Engineering    Git · GitHub · REST APIs
-Problem Solving
-               DSA · Interview Preparation
-</pre>
+### ⚡ What I'm working on
 
-> **My approach:** Learn → Build → Break → Debug → Understand → Improve.
+| Area | Stack |
+| --- | --- |
+| **Frontend** | HTML · CSS · JavaScript · React |
+| **Backend** | Node.js · Express |
+| **Databases** | SQL · MySQL · MongoDB |
+| **Tools** | Git · GitHub · Postman |
+| **Problem Solving** | DSA · Interview Preparation |
 
----
+> 🚀 **Learn → Build → Debug → Understand → Improve**
+
 
 ## 🛠️ Tech Stack
 
